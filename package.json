@@ -1,0 +1,16 @@
+{
+  "name": "atownsend247",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:atownsend247/atownsend247.git",
+  "author": "Andrew Townsend <atownsend247@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node --experimental-modules index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "xml2json": "^0.12.0"
+  }
+}
