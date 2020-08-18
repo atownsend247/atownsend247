@@ -12,5 +12,9 @@ Since getting into arduino programming a few years back this has evolved into cr
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Enabling SSH keys for a specific CIDR range](https://ghost.atathome.me/enabling-ssh-keys-for-a-specific-cidr-range/)
+- [Enabling multiple SSH keys for Bitbucket Cloud](https://ghost.atathome.me/enabling-multiple-ssh-keys-for-bitbucket-cloud/)
+- [Starting Development on MacOS](https://ghost.atathome.me/starting-development-on-macos/)
+- [Automating RDS database access via Ansible](https://ghost.atathome.me/provisioning-rds-access-via-ansible/)
 - [Creating and maintaining this blog](https://ghost.atathome.me/creating-and-maintaining-this-blog/)
 <!-- FEED-END -->
