@@ -1,6 +1,6 @@
 # Welcome All
 
-![Fetch recent blog posts](https://github.com/atownsend247/atownsend247/workflows/Fetch%20recent%20blog%20posts/badge.svg)
+![Fetch blog posts from BrightBotBlog.com](https://github.com/atownsend247/atownsend247/workflows/Fetch%20blog%20posts%20from%20BrightBotBlog.com/badge.svg)
 
 I am an enthusiastic Infrastructure Engineer with a passion for complex web based systems and mainly AWS focused cloud architecture. I have experience from building websites using best practices to ensure optimum scalability, hybrid cloud systems and data heavy administration systems.
 
