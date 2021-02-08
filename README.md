@@ -12,9 +12,9 @@ Since getting into arduino programming a few years back this has evolved into cr
 ## Recent blog posts
 
 <!-- FEED-START -->
-- [Enabling SSH keys for a specific CIDR range](https://ghost.atathome.me/enabling-ssh-keys-for-a-specific-cidr-range/)
-- [Enabling multiple SSH keys for Bitbucket Cloud](https://ghost.atathome.me/enabling-multiple-ssh-keys-for-bitbucket-cloud/)
-- [Starting Development on MacOS](https://ghost.atathome.me/starting-development-on-macos/)
-- [Automating RDS database access via Ansible](https://ghost.atathome.me/provisioning-rds-access-via-ansible/)
-- [Creating and maintaining this blog](https://ghost.atathome.me/creating-and-maintaining-this-blog/)
+- [CDK: EC2 + RDS + AutoScaling + ALB](https://brightbotblog.com/cdk-ec2-rds-autoscaling-alb/)
+- [A new adventure is coming...](https://brightbotblog.com/a-new-adventure-is-coming/)
+- [Automating content for your GitHub profile](https://brightbotblog.com/automating-content-for-your-github-profile/)
+- [Enabling SSH keys for a specific CIDR range](https://brightbotblog.com/enabling-ssh-keys-for-a-specific-cidr-range/)
+- [Enabling multiple SSH keys for Bitbucket Cloud](https://brightbotblog.com/enabling-multiple-ssh-keys-for-bitbucket-cloud/)
 <!-- FEED-END -->
