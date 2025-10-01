@@ -2,7 +2,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 import parser from "xml2json";
 
-const FEED_URL = "https://brightbotblog.com/rss";
+const FEED_URL = "https://brightbot.co.uk/rss";
 const TAG_OPEN = `<!-- FEED-START -->`;
 const TAG_CLOSE = `<!-- FEED-END -->`;
 
