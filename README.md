@@ -13,9 +13,7 @@ Since getting into arduino programming a few years back this has evolved into cr
 ## Recent blog posts
 
 <!-- FEED-START -->
-- [CDK: EC2 + RDS + AutoScaling + ALB](https://brightbotblog.com/cdk-ec2-rds-autoscaling-alb/)
-- [A new adventure is coming...](https://brightbotblog.com/a-new-adventure-is-coming/)
-- [Automating content for your GitHub profile](https://brightbotblog.com/automating-content-for-your-github-profile/)
-- [Enabling SSH keys for a specific CIDR range](https://brightbotblog.com/enabling-ssh-keys-for-a-specific-cidr-range/)
-- [Enabling multiple SSH keys for Bitbucket Cloud](https://brightbotblog.com/enabling-multiple-ssh-keys-for-bitbucket-cloud/)
+- [Setting Up Network UPS Tools (NUT) for APC UPS Devices on Linux](https://brightbot.co.uk/setting-up-network-ups-tools-nut-for-apc-ups-devices-on-linux/)
+- [Ghost + Gatsby: A Modern Publishing Stack for Fast, Flexible Websites](https://brightbot.co.uk/ghost-gatsby-a-modern-publishing-stack-for-fast-flexible-websites/)
+- [High Availability with HAProxy and Keepalived: A Practical Guide](https://brightbot.co.uk/high-availability-with-haproxy-and-keepalived/)
 <!-- FEED-END -->
