@@ -9,6 +9,7 @@ I am an enthusiastic Infrastructure Engineer with a passion for complex web base
 I have a keen interest in nature and nature photography, this is mainly done through looking after a succulent and orchid collection and getting out and exploring the countryside.
 Since getting into arduino programming a few years back this has evolved into creating and constructing a home automation system; using proprietary and open source solutions, along with off-the-shelf components mainly based around the ESP8266 chipset. This has allowed me to create lighting and power control around my home, with the addition of multiple sensors inclusive of security, climate and CCTV. My primary goal is to make my life easier and more efficient by making use of schedules and voice activated commands while learning the mechanics and principles of the code.
 
+
 ## Recent blog posts
 
 <!-- FEED-START -->
