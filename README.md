@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [test embedded pictures](https://brightbot.co.uk/test-embedded-pictures/)
 - [Linting Documentation with Vale: Consistent, Clear, and Error-Free Writing](https://brightbot.co.uk/linting-documentation-with-vale-consistent-clear-and-error-free-writing/)
 - [Setting Up Network UPS Tools (NUT) for APC UPS Devices on Linux](https://brightbot.co.uk/setting-up-network-ups-tools-nut-for-apc-ups-devices-on-linux/)
 - [Ghost + Gatsby: A Modern Publishing Stack for Fast, Flexible Websites](https://brightbot.co.uk/ghost-gatsby-a-modern-publishing-stack-for-fast-flexible-websites/)
