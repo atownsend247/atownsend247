@@ -10,7 +10,7 @@ const fetchArticles = async () => {
   const articles = await fetch(FEED_URL);
   const articlesText = await articles.text();
   const articlesJSON = parser.toJson(articlesText);
-  const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
+  const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 10);
 
   return newC.map(({ title, link }) => `- [${title}](${link})`).join("\n");
 };
