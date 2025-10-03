@@ -24,4 +24,5 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Linting Documentation with Vale: Consistent, Clear, and Error-Free Writing](https://brightbot.co.uk/linting-documentation-with-vale-consistent-clear-and-error-free-writing/)
 - [Setting Up Network UPS Tools (NUT) for APC UPS Devices on Linux](https://brightbot.co.uk/setting-up-network-ups-tools-nut-for-apc-ups-devices-on-linux/)
 - [Ghost + Gatsby: A Modern Publishing Stack for Fast, Flexible Websites](https://brightbot.co.uk/ghost-gatsby-a-modern-publishing-stack-for-fast-flexible-websites/)
+- [High Availability with HAProxy and Keepalived: A Practical Guide](https://brightbot.co.uk/high-availability-with-haproxy-and-keepalived/)
 <!-- FEED-END -->
