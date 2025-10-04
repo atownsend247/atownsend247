@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Tracking Daily Power Usage with Shelly and Home Assistant - Part 1](https://brightbot.co.uk/tracking-daily-power-usage-with-shelly-and-home-assistant-part-1/)
 - [Building a Home Lab Dashboard with Homer](https://brightbot.co.uk/building-a-home-lab-dashboard-with-homer/)
 - [Monitoring Services with Uptime Kuma](https://brightbot.co.uk/monitoring-services-with-uptime-kuma/)
 - [Setting Up Ghost with S3 Storage Using ghost-storage-adapter-s3: Part 2](https://brightbot.co.uk/setting-up-ghost-with-s3-storage-using-ghost-storage-adapter-s3-part-2/)
