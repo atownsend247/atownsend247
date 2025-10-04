@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Tracking Daily Power Usage and Cost with Shelly and Home Assistant - Part 2](https://brightbot.co.uk/tracking-daily-power-usage-and-cost-with-shelly-and-home-assistant-part-2/)
 - [Tracking Daily Power Usage with Shelly and Home Assistant - Part 1](https://brightbot.co.uk/tracking-daily-power-usage-with-shelly-and-home-assistant-part-1/)
 - [Building a Home Lab Dashboard with Homer](https://brightbot.co.uk/building-a-home-lab-dashboard-with-homer/)
 - [Monitoring Services with Uptime Kuma](https://brightbot.co.uk/monitoring-services-with-uptime-kuma/)
