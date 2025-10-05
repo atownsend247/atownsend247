@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Building a 4-Zone Irrigation Controller with ESPHome - Part 1](https://brightbot.co.uk/building-a-4-zone-irrigation-controller-with-esphome-part-1/)
 - [Tracking Daily Power Usage and Cost with Shelly and Home Assistant - Part 2](https://brightbot.co.uk/tracking-daily-power-usage-and-cost-with-shelly-and-home-assistant-part-2/)
 - [Tracking Daily Power Usage with Shelly and Home Assistant - Part 1](https://brightbot.co.uk/tracking-daily-power-usage-with-shelly-and-home-assistant-part-1/)
 - [Building a Home Lab Dashboard with Homer](https://brightbot.co.uk/building-a-home-lab-dashboard-with-homer/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Linting Documentation with Vale: Consistent, Clear, and Error-Free Writing](https://brightbot.co.uk/linting-documentation-with-vale-consistent-clear-and-error-free-writing/)
 - [Setting Up Network UPS Tools (NUT) for APC UPS Devices on Linux](https://brightbot.co.uk/setting-up-network-ups-tools-nut-for-apc-ups-devices-on-linux/)
 - [Ghost + Gatsby: A Modern Publishing Stack for Fast, Flexible Websites](https://brightbot.co.uk/ghost-gatsby-a-modern-publishing-stack-for-fast-flexible-websites/)
-- [High Availability with HAProxy and Keepalived: A Practical Guide](https://brightbot.co.uk/high-availability-with-haproxy-and-keepalived/)
 <!-- FEED-END -->
