@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Verifying Your GitHub Commits with GPG or SSH](https://brightbot.co.uk/verifying-your-github-commits-with-gpg-or-ssh/)
 - [Managing Multiple Git SSH Keys by Directory](https://brightbot.co.uk/managing-multiple-git-ssh-keys-by-directory/)
 - [Managing Multiple Git Authors by Directory](https://brightbot.co.uk/managing-multiple-git-authors-by-directory/)
 - [Building a Laser Trip Sensor with a Photoelectric Sensor and ESPHome](https://brightbot.co.uk/building-a-laser-trip-sensor-with-a-photoelectric-sensor-and-esphome/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Building a Home Lab Dashboard with Homer](https://brightbot.co.uk/building-a-home-lab-dashboard-with-homer/)
 - [Monitoring Services with Uptime Kuma](https://brightbot.co.uk/monitoring-services-with-uptime-kuma/)
 - [Setting Up Ghost with S3 Storage Using ghost-storage-adapter-s3: Part 2](https://brightbot.co.uk/setting-up-ghost-with-s3-storage-using-ghost-storage-adapter-s3-part-2/)
-- [Setting Up Ghost with S3 Storage Using ghost-storage-adapter-s3: Part 1](https://brightbot.co.uk/setting-up-ghost-with-s3-storage-using-ghost-storage-adapter-s3/)
 <!-- FEED-END -->
