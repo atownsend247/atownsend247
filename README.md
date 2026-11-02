@@ -19,14 +19,14 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
-- [Verifying Your GitHub Commits with GPG or SSH](https://brightbot.co.uk/verifying-your-github-commits-with-gpg-or-ssh/)
-- [Managing Multiple Git SSH Keys by Directory](https://brightbot.co.uk/managing-multiple-git-ssh-keys-by-directory/)
-- [Managing Multiple Git Authors by Directory](https://brightbot.co.uk/managing-multiple-git-authors-by-directory/)
-- [Building a Laser Trip Sensor with a Photoelectric Sensor and ESPHome](https://brightbot.co.uk/building-a-laser-trip-sensor-with-a-photoelectric-sensor-and-esphome/)
-- [Building a 4-Zone Irrigation Controller with ESPHome - Part 1](https://brightbot.co.uk/building-a-4-zone-irrigation-controller-with-esphome-part-1/)
-- [Tracking Daily Power Usage and Cost with Shelly and Home Assistant - Part 2](https://brightbot.co.uk/tracking-daily-power-usage-and-cost-with-shelly-and-home-assistant-part-2/)
-- [Tracking Daily Power Usage with Shelly and Home Assistant - Part 1](https://brightbot.co.uk/tracking-daily-power-usage-with-shelly-and-home-assistant-part-1/)
-- [Building a Home Lab Dashboard with Homer](https://brightbot.co.uk/building-a-home-lab-dashboard-with-homer/)
-- [Monitoring Services with Uptime Kuma](https://brightbot.co.uk/monitoring-services-with-uptime-kuma/)
-- [Setting Up Ghost with S3 Storage Using ghost-storage-adapter-s3: Part 2](https://brightbot.co.uk/setting-up-ghost-with-s3-storage-using-ghost-storage-adapter-s3-part-2/)
+- [Marketplace Listing Helper: A helper that never presses Publish - Part 1](https://brightbot.co.uk/listing-helper-a-helper-that-never-presses-publish/)
+- [Childcare calculator: From two childminders to four - Part 2](https://brightbot.co.uk/from-two-childminders-to-four/)
+- [Central login service: Moving configuration into the database - Part 6](https://brightbot.co.uk/identity-system-moving-configuration-into-the-database/)
+- [Personal finance aggregator: Handing authentication to identity-system - Part 9](https://brightbot.co.uk/handing-auth-to-identity-system/)
+- [House-move inventory: Why a spreadsheet wasn't enough - Part 1](https://brightbot.co.uk/why-a-spreadsheet-wasnt-enough/)
+- [Childcare calculator: Why a static page, and why not a spreadsheet - Part 1](https://brightbot.co.uk/why-a-static-page/)
+- [Central login service: Making Jenkins sign in - Part 5](https://brightbot.co.uk/identity-system-making-jenkins-sign-in/)
+- [Personal finance aggregator: Account balances and disconnecting banks cleanly - Part 8](https://brightbot.co.uk/balances-and-disconnecting-banks/)
+- [Building a 4-Zone Irrigation Controller with ESPHome - Part 2](https://brightbot.co.uk/building-a-4-zone-irrigation-controller-with-esphome-part-2/)
+- [Central login service: Becoming an OpenID Connect provider - Part 4](https://brightbot.co.uk/identity-system-becoming-an-openid-connect-provider/)
 <!-- FEED-END -->
