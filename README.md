@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [House-move inventory: A core that knows nothing about HTTP - Part 2](https://brightbot.co.uk/a-core-that-knows-nothing-about-http/)
 - [Marketplace Listing Helper: A helper that never presses Publish - Part 1](https://brightbot.co.uk/listing-helper-a-helper-that-never-presses-publish/)
 - [Childcare calculator: From two childminders to four - Part 2](https://brightbot.co.uk/from-two-childminders-to-four/)
 - [Central login service: Moving configuration into the database - Part 6](https://brightbot.co.uk/identity-system-moving-configuration-into-the-database/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Central login service: Making Jenkins sign in - Part 5](https://brightbot.co.uk/identity-system-making-jenkins-sign-in/)
 - [Personal finance aggregator: Account balances and disconnecting banks cleanly - Part 8](https://brightbot.co.uk/balances-and-disconnecting-banks/)
 - [Building a 4-Zone Irrigation Controller with ESPHome - Part 2](https://brightbot.co.uk/building-a-4-zone-irrigation-controller-with-esphome-part-2/)
-- [Central login service: Becoming an OpenID Connect provider - Part 4](https://brightbot.co.uk/identity-system-becoming-an-openid-connect-provider/)
 <!-- FEED-END -->
