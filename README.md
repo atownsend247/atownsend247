@@ -19,14 +19,14 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Marketplace Listing Helper: A list that lives in the browser - Part 3](https://brightbot.co.uk/listing-helper-a-list-that-lives-in-the-browser/)
+- [Central login service: A two-step login wizard - Part 8](https://brightbot.co.uk/identity-system-a-two-step-login-wizard/)
+- [Childcare calculator: Spreading hours across the week, and the partial-week problem - Part 4](https://brightbot.co.uk/weeks-and-partial-weeks/)
+- [Personal finance aggregator: Seeing everything in one place - Part 11](https://brightbot.co.uk/seeing-everything-in-one-place/)
 - [House-move inventory: Money, currencies and an approximate euro - Part 3](https://brightbot.co.uk/money-and-an-approximate-euro/)
 - [Marketplace Listing Helper: Filling in Facebook's form - Part 2](https://brightbot.co.uk/listing-helper-filling-in-facebooks-form/)
 - [Childcare calculator: Splitting free hours across childminders - Part 3](https://brightbot.co.uk/splitting-free-hours/)
 - [Central login service: Polish, and creating users from the browser - Part 7](https://brightbot.co.uk/identity-system-polish-and-creating-users-from-the-browser/)
 - [Personal finance aggregator: One storage tree per user - Part 10](https://brightbot.co.uk/one-storage-tree-per-user/)
 - [House-move inventory: A core that knows nothing about HTTP - Part 2](https://brightbot.co.uk/a-core-that-knows-nothing-about-http/)
-- [Marketplace Listing Helper: A helper that never presses Publish - Part 1](https://brightbot.co.uk/listing-helper-a-helper-that-never-presses-publish/)
-- [Childcare calculator: From two childminders to four - Part 2](https://brightbot.co.uk/from-two-childminders-to-four/)
-- [Central login service: Moving configuration into the database - Part 6](https://brightbot.co.uk/identity-system-moving-configuration-into-the-database/)
-- [Personal finance aggregator: Handing authentication to identity-system - Part 9](https://brightbot.co.uk/handing-auth-to-identity-system/)
 <!-- FEED-END -->
