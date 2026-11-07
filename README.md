@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [House-move inventory: A REST API whose docs can't go stale - Part 4](https://brightbot.co.uk/a-rest-api-whose-docs-cant-go-stale/)
 - [Marketplace Listing Helper: A list that lives in the browser - Part 3](https://brightbot.co.uk/listing-helper-a-list-that-lives-in-the-browser/)
 - [Central login service: A two-step login wizard - Part 8](https://brightbot.co.uk/identity-system-a-two-step-login-wizard/)
 - [Childcare calculator: Spreading hours across the week, and the partial-week problem - Part 4](https://brightbot.co.uk/weeks-and-partial-weeks/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Childcare calculator: Splitting free hours across childminders - Part 3](https://brightbot.co.uk/splitting-free-hours/)
 - [Central login service: Polish, and creating users from the browser - Part 7](https://brightbot.co.uk/identity-system-polish-and-creating-users-from-the-browser/)
 - [Personal finance aggregator: One storage tree per user - Part 10](https://brightbot.co.uk/one-storage-tree-per-user/)
-- [House-move inventory: A core that knows nothing about HTTP - Part 2](https://brightbot.co.uk/a-core-that-knows-nothing-about-http/)
 <!-- FEED-END -->
