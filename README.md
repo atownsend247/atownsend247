@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [House-move inventory: The SPA: small pieces, no UI library - Part 5](https://brightbot.co.uk/the-spa-small-pieces-no-ui-library/)
 - [Jenkins shared library: Why a shared library - Part 1](https://brightbot.co.uk/jenkins-shared-lib-why-a-shared-library/)
 - [Marketplace Listing Helper: From a spreadsheet to listings - Part 4](https://brightbot.co.uk/listing-helper-from-a-spreadsheet-to-listings/)
 - [Childcare calculator: Term dates, persistence, and small decisions - Part 5](https://brightbot.co.uk/term-dates-and-persistence/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Central login service: A two-step login wizard - Part 8](https://brightbot.co.uk/identity-system-a-two-step-login-wizard/)
 - [Childcare calculator: Spreading hours across the week, and the partial-week problem - Part 4](https://brightbot.co.uk/weeks-and-partial-weeks/)
 - [Personal finance aggregator: Seeing everything in one place - Part 11](https://brightbot.co.uk/seeing-everything-in-one-place/)
-- [House-move inventory: Money, currencies and an approximate euro - Part 3](https://brightbot.co.uk/money-and-an-approximate-euro/)
 <!-- FEED-END -->
