@@ -19,14 +19,14 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Jenkins shared library: Extracting the Sync blog stage - Part 2](https://brightbot.co.uk/jenkins-shared-lib-extracting-the-sync-blog-stage/)
+- [Childcare calculator: Doing the top-up maths for sleep-deprived parents - Part 6](https://brightbot.co.uk/the-government-top-up/)
+- [Marketplace Listing Helper: A full-page manager, without a bundler - Part 5](https://brightbot.co.uk/listing-helper-a-full-page-manager-without-a-bundler/)
+- [Personal finance aggregator: Periods, charts, and a phone-sized UI - Part 13](https://brightbot.co.uk/periods-charts-and-a-phone-sized-ui/)
 - [House-move inventory: The SPA: small pieces, no UI library - Part 5](https://brightbot.co.uk/the-spa-small-pieces-no-ui-library/)
 - [Jenkins shared library: Why a shared library - Part 1](https://brightbot.co.uk/jenkins-shared-lib-why-a-shared-library/)
 - [Marketplace Listing Helper: From a spreadsheet to listings - Part 4](https://brightbot.co.uk/listing-helper-from-a-spreadsheet-to-listings/)
 - [Childcare calculator: Term dates, persistence, and small decisions - Part 5](https://brightbot.co.uk/term-dates-and-persistence/)
 - [Personal finance aggregator: Rule-based categorisation - Part 12](https://brightbot.co.uk/rule-based-categorisation/)
 - [House-move inventory: A REST API whose docs can't go stale - Part 4](https://brightbot.co.uk/a-rest-api-whose-docs-cant-go-stale/)
-- [Marketplace Listing Helper: A list that lives in the browser - Part 3](https://brightbot.co.uk/listing-helper-a-list-that-lives-in-the-browser/)
-- [Central login service: A two-step login wizard - Part 8](https://brightbot.co.uk/identity-system-a-two-step-login-wizard/)
-- [Childcare calculator: Spreading hours across the week, and the partial-week problem - Part 4](https://brightbot.co.uk/weeks-and-partial-weeks/)
-- [Personal finance aggregator: Seeing everything in one place - Part 11](https://brightbot.co.uk/seeing-everything-in-one-place/)
 <!-- FEED-END -->
