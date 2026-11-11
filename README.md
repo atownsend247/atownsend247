@@ -19,6 +19,7 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [House-move inventory: Schema migrations with PRAGMA user_version - Part 6](https://brightbot.co.uk/schema-migrations-with-pragma-user-version/)
 - [Jenkins shared library: Extracting the Sync blog stage - Part 2](https://brightbot.co.uk/jenkins-shared-lib-extracting-the-sync-blog-stage/)
 - [Childcare calculator: Doing the top-up maths for sleep-deprived parents - Part 6](https://brightbot.co.uk/the-government-top-up/)
 - [Marketplace Listing Helper: A full-page manager, without a bundler - Part 5](https://brightbot.co.uk/listing-helper-a-full-page-manager-without-a-bundler/)
@@ -28,5 +29,4 @@ If you’re into coding, home labs, automation, or even just geeking out about p
 - [Marketplace Listing Helper: From a spreadsheet to listings - Part 4](https://brightbot.co.uk/listing-helper-from-a-spreadsheet-to-listings/)
 - [Childcare calculator: Term dates, persistence, and small decisions - Part 5](https://brightbot.co.uk/term-dates-and-persistence/)
 - [Personal finance aggregator: Rule-based categorisation - Part 12](https://brightbot.co.uk/rule-based-categorisation/)
-- [House-move inventory: A REST API whose docs can't go stale - Part 4](https://brightbot.co.uk/a-rest-api-whose-docs-cant-go-stale/)
 <!-- FEED-END -->
